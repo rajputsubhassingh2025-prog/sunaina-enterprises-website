@@ -83,3 +83,12 @@ footer{
   text-align:center;
   padding:20px;
 }
+.logo img {
+  width: 180px;
+  height: auto;
+  display: block;
+}
+
+.brand-logo {
+  max-width: 180px;
+}
