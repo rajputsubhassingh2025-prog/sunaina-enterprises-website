@@ -92,3 +92,12 @@ footer{
 .brand-logo {
   max-width: 180px;
 }
+.logo img {
+  width: 180px;
+  height: auto;
+  display: block;
+}
+
+.brand-logo {
+  max-width: 180px;
+}
